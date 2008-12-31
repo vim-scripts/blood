@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2499
+
+This colorscheme uses a dark background with a slight red tint.
+The syntax elements have colors mostly different from red so its easy for the eye to catch different elements.
+
+I mostly use it for python/d code. As this theme is still very new, there might be some important highlighting groups missing atm, sorry for that.
+
+Edit: Support for this theme is discontinued. If you are really a fan of it, contact me via http://leetless.de, if I see some request for this theme I might continue to support it.
